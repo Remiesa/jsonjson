@@ -15,5 +15,53 @@
             "red1":"",
             "red2":"",
             "img": ""
+  },
+  {
+            "negara1": "",
+
+            "negara2": "",
+            "babak":"",
+            "tanggal":"How to Create Patient Appointment?",
+              "description": "",
+            "group":"CLick Calendar - Once you got there, choose the correct date of appointment - click the date - fill the Patient Data.",
+            "goal1":"",
+            "goal2":"",
+            "yellow1":"",
+            "yellow2":"",
+            "red1":"",
+            "red2":"",
+            "img": ""
+  },
+  {
+            "negara1": "",
+
+            "negara2": "",
+            "babak":"",
+            "tanggal":"How to Check Patient Data?",
+              "description": "",
+            "group":"After you create data from calendar, the data will appear in patient table.",
+            "goal1":"",
+            "goal2":"",
+            "yellow1":"",
+            "yellow2":"",
+            "red1":"",
+            "red2":"",
+            "img": ""
+  },
+  {
+            "negara1": "",
+
+            "negara2": "",
+            "babak":"",
+            "tanggal":"How to Delete Patient Data Appointment?",
+              "description": "",
+            "group":"In the Patient Form, click data in the table that you want to delete after that click delete button at the top right corner.",
+            "goal1":"",
+            "goal2":"",
+            "yellow1":"",
+            "yellow2":"",
+            "red1":"",
+            "red2":"",
+            "img": ""
   }
 ]
