@@ -1,19 +1,19 @@
 
 [
 {
-            "negara1": "Qatar",
+            "negara1": "",
 
-            "negara2": "Ecuador",
-            "babak":"Group Match",
-            "tanggal":"20 November 2022",
-              "description": "test1",
-            "group":"Group A",
-            "goal1":"0",
-            "goal2":"2",
-            "yellow1":"4",
-            "yellow2":"2",
-            "red1":"0",
-            "red2":"0",
+            "negara2": "",
+            "babak":"",
+            "tanggal":"What is Zendenta?",
+              "description": "",
+            "group":"Zendenta - Dental clinic management system. Dental clinic management system for dentist and patient app for booking a dentist treatment.",
+            "goal1":"",
+            "goal2":"",
+            "yellow1":"",
+            "yellow2":"",
+            "red1":"",
+            "red2":"",
             "img": ""
   }
 ]
